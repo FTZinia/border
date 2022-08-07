@@ -7,16 +7,19 @@ p{
     margin-right:  50px;
     margin-bottom: 50px;
     margin-left: 250px;
-    border-top: 5px yellowgreen dotted;
-    border-right: 5px yellowgreen dotted;
-    border-bottom: 5px yellowgreen dotted;
-    border-left: 5px yellowgreen dotted;
+    border-top: 7px violet dotted;
+    border-right: 7px violet dotted;
+    border-bottom: 7px violet dotted;
+    border-left: 7px violet dotted;
     border-radius: 15px;
     padding: 30px 30px 30px 30px;
     box-shadow: 25px 40px;
-    font-size: large;
+    font-size: larger;
+    font-weight: 400;
     font-style: italic;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     overflow: auto;
+    text-align: center;
+    text-transform: capitalize;
 
 }
