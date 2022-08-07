@@ -11,4 +11,6 @@ p{
     border-right: 5px yellowgreen dotted;
     border-bottom: 5px yellowgreen dotted;
     border-left: 5px yellowgreen dotted;
+    border-radius: 15px;
+    padding: 30px 30px 30px 30px;
 }
