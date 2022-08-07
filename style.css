@@ -14,5 +14,9 @@ p{
     border-radius: 15px;
     padding: 30px 30px 30px 30px;
     box-shadow: 25px 40px;
+    font-size: large;
+    font-style: italic;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    overflow: auto;
 
 }
