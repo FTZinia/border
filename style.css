@@ -1,16 +1,18 @@
 p{
     color: blue;
-    height: 500px;
-    width: 600px;
+    height: 200px;
+    width: 800px;
     background-color: aqua;
     margin-top:  50px;
     margin-right:  50px;
     margin-bottom: 50px;
-    margin-left: 350px;
+    margin-left: 250px;
     border-top: 5px yellowgreen dotted;
     border-right: 5px yellowgreen dotted;
     border-bottom: 5px yellowgreen dotted;
     border-left: 5px yellowgreen dotted;
     border-radius: 15px;
     padding: 30px 30px 30px 30px;
+    box-shadow: 25px 40px;
+
 }
